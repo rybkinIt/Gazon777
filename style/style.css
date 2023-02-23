@@ -76,6 +76,9 @@ a:hover{
     font-size: 18px;
     font-weight: 400;
 }
+.layer2{
+    margin-left:150px
+}
 .header-item:not(:last-child){
     margin-right: 42px;
 }
