@@ -1,11 +1,11 @@
-var swiper = new Swiper(".mySwiper", {
-    slidesPerView: 2,
+var Swiper2 = new Swiper(".Swiper-2", {
+    slidesPerView: 1,
     centeredSlides: true,
     spaceBetween: 60,
     loop: true,
     navigation: {
-        nextEl: ".swiper-buttn-next",
-        prevEl: ".swiper-buttn-prev",
+        nextEl: ".next",
+        prevEl: ".prev",
     },
     mousewheel: false,
     keyboard: true,
